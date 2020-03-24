@@ -1,0 +1,10 @@
+C:\Users\pylae\source\repos\ClientServ\ClientServ\bin\Debug\netcoreapp2.1\ClientServ.deps.json
+C:\Users\pylae\source\repos\ClientServ\ClientServ\bin\Debug\netcoreapp2.1\ClientServ.runtimeconfig.json
+C:\Users\pylae\source\repos\ClientServ\ClientServ\bin\Debug\netcoreapp2.1\ClientServ.runtimeconfig.dev.json
+C:\Users\pylae\source\repos\ClientServ\ClientServ\bin\Debug\netcoreapp2.1\ClientServ.dll
+C:\Users\pylae\source\repos\ClientServ\ClientServ\bin\Debug\netcoreapp2.1\ClientServ.pdb
+C:\Users\pylae\source\repos\ClientServ\ClientServ\obj\Debug\netcoreapp2.1\ClientServ.csproj.CoreCompileInputs.cache
+C:\Users\pylae\source\repos\ClientServ\ClientServ\obj\Debug\netcoreapp2.1\ClientServ.AssemblyInfoInputs.cache
+C:\Users\pylae\source\repos\ClientServ\ClientServ\obj\Debug\netcoreapp2.1\ClientServ.AssemblyInfo.cs
+C:\Users\pylae\source\repos\ClientServ\ClientServ\obj\Debug\netcoreapp2.1\ClientServ.dll
+C:\Users\pylae\source\repos\ClientServ\ClientServ\obj\Debug\netcoreapp2.1\ClientServ.pdb
